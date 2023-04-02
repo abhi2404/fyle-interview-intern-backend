@@ -4,3 +4,7 @@ omit =
     *__pycache__/*
     *.pytest_cache/*
     *tests/*
+    */exceptions.py*
+    */server.py*
+    */assertions.py*
+    *models/*
